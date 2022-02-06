@@ -1,9 +1,10 @@
-# Flappy-Bird-game
+# Flappy-Bird-game🐤🐤
 
 Created the classic Flappy Bird game using Python:
 
-Controls:
+Controls🎮:
 
+Enter or Up: starts
 Spacebar or Up: Moves the bird
 Escape : Closes the game
 
